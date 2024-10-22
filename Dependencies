@@ -1,0 +1,2 @@
+test_graph.o: test_graph.cpp graph.h graph_dumb_vector.h
+timing.o: timing.cpp graph.h graph_algorithms.h graph_dumb_vector.h
